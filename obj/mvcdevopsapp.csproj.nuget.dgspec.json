@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gauravb2\\Desktop\\Gaurav\\MY\\AzureBootCamp\\Azure_DevOps\\Applications\\DevopsApp\\mvcdevopsapp\\mvcdevopsapp.csproj": {}
+    "C:\\Users\\snehad2\\Desktop\\MVCGitApp\\mvcdevopsapp\\mvcdevopsapp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gauravb2\\Desktop\\Gaurav\\MY\\AzureBootCamp\\Azure_DevOps\\Applications\\DevopsApp\\mvcdevopsapp\\mvcdevopsapp.csproj": {
+    "C:\\Users\\snehad2\\Desktop\\MVCGitApp\\mvcdevopsapp\\mvcdevopsapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gauravb2\\Desktop\\Gaurav\\MY\\AzureBootCamp\\Azure_DevOps\\Applications\\DevopsApp\\mvcdevopsapp\\mvcdevopsapp.csproj",
+        "projectUniqueName": "C:\\Users\\snehad2\\Desktop\\MVCGitApp\\mvcdevopsapp\\mvcdevopsapp.csproj",
         "projectName": "mvcdevopsapp",
-        "projectPath": "C:\\Users\\gauravb2\\Desktop\\Gaurav\\MY\\AzureBootCamp\\Azure_DevOps\\Applications\\DevopsApp\\mvcdevopsapp\\mvcdevopsapp.csproj",
-        "packagesPath": "C:\\Users\\gauravb2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gauravb2\\Desktop\\Gaurav\\MY\\AzureBootCamp\\Azure_DevOps\\Applications\\DevopsApp\\mvcdevopsapp\\obj\\",
+        "projectPath": "C:\\Users\\snehad2\\Desktop\\MVCGitApp\\mvcdevopsapp\\mvcdevopsapp.csproj",
+        "packagesPath": "C:\\Users\\snehad2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\snehad2\\Desktop\\MVCGitApp\\mvcdevopsapp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\gauravb2\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\snehad2\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
