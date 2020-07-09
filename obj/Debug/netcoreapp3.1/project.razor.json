@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "FilePath": "c:\\AzureDemo\\mvcdevopsapp\\mvcdevopsapp.csproj",
+=======
+  "FilePath": "c:\\Users\\snehad2\\Desktop\\MVCGitApp\\mvcdevopsapp\\mvcdevopsapp.csproj",
+>>>>>>> fa7167d6526158fe6e82783d6d646110edf12071
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -20521,6 +20525,7 @@
   "RootNamespace": "mvcdevopsapp",
   "Documents": [
     {
+<<<<<<< HEAD
       "FilePath": "c:\\AzureDemo\\mvcdevopsapp\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
@@ -20553,6 +20558,40 @@
     {
       "FilePath": "c:\\AzureDemo\\mvcdevopsapp\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
+=======
+      "FilePath": "c:\\Users\\snehad2\\Desktop\\MVCGitApp\\mvcdevopsapp\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\snehad2\\Desktop\\MVCGitApp\\mvcdevopsapp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\snehad2\\Desktop\\MVCGitApp\\mvcdevopsapp\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\snehad2\\Desktop\\MVCGitApp\\mvcdevopsapp\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\snehad2\\Desktop\\MVCGitApp\\mvcdevopsapp\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\snehad2\\Desktop\\MVCGitApp\\mvcdevopsapp\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\snehad2\\Desktop\\MVCGitApp\\mvcdevopsapp\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+>>>>>>> fa7167d6526158fe6e82783d6d646110edf12071
       "FileKind": "mvc"
     }
   ],

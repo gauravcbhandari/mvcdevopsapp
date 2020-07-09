@@ -8,23 +8,39 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\mahendras\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+=======
+    "C:\\Users\\snehad2\\.nuget\\packages\\": {}
+>>>>>>> fa7167d6526158fe6e82783d6d646110edf12071
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\AzureDemo\\mvcdevopsapp\\mvcdevopsapp.csproj",
       "projectName": "mvcdevopsapp",
       "projectPath": "C:\\AzureDemo\\mvcdevopsapp\\mvcdevopsapp.csproj",
       "packagesPath": "C:\\Users\\mahendras\\.nuget\\packages\\",
       "outputPath": "C:\\AzureDemo\\mvcdevopsapp\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\snehad2\\Desktop\\MVCGitApp\\mvcdevopsapp\\mvcdevopsapp.csproj",
+      "projectName": "mvcdevopsapp",
+      "projectPath": "C:\\Users\\snehad2\\Desktop\\MVCGitApp\\mvcdevopsapp\\mvcdevopsapp.csproj",
+      "packagesPath": "C:\\Users\\snehad2\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\snehad2\\Desktop\\MVCGitApp\\mvcdevopsapp\\obj\\",
+>>>>>>> fa7167d6526158fe6e82783d6d646110edf12071
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
+<<<<<<< HEAD
         "C:\\Users\\mahendras\\AppData\\Roaming\\NuGet\\NuGet.Config"
+=======
+        "C:\\Users\\snehad2\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> fa7167d6526158fe6e82783d6d646110edf12071
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
