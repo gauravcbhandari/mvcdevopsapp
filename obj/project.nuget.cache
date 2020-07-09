@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "GRbzObwHvDdYITWmjdmqDhesp228L9MkSniTIHCC8uwEcL6eL+3aVf6HZIn1lTnTzaL/3Yp1/ARphdxY32DwEQ==",
+<<<<<<< HEAD
+  "dgSpecHash": "X28E24JbV3FtxXultDwL/+pnWBNgOpnrFOOkUpaGTjA/x3+NQFyTOk0rJGWoKfLQGLXjPAv+wjKfuo/WOAofFA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gauravb2\\Desktop\\Gaurav\\MY\\AzureBootCamp\\Azure_DevOps\\Applications\\DevopsApp\\mvcdevopsapp\\mvcdevopsapp.csproj",
+  "projectFilePath": "C:\\AzureDemo\\mvcdevopsapp\\mvcdevopsapp.csproj",
+=======
+  "dgSpecHash": "UMg8M23/I8HEXU8ap4RMTEXVPiPiYIkHplkCjsbMGLjkLUkSvsqcDMkGrD6lv5PvGm19+QI9qIZhm2ynRa9TRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\snehad2\\Desktop\\MVCGitApp\\mvcdevopsapp\\mvcdevopsapp.csproj",
+>>>>>>> fa7167d6526158fe6e82783d6d646110edf12071
   "expectedPackageFiles": [],
   "logs": []
 }
